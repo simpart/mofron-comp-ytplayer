@@ -1,0 +1,6 @@
+<setting>
+    <tag load="mofron-comp-ytplayer">Player</tag>
+</setting>
+
+<Player yid="YOUTUBE_VIDEO_ID" width=100%></Player>
+
